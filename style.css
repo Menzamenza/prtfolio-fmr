@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    /* outline: 1px solid red; */
+}
+body{
+    font-family: Montserrat;
+}
+.engage{
+    color: white;
+    background-color:#333E83;
+}
+.nav-link:hover{
+    color: #333E83;
+}
+.engage:hover{
+    color: white;
+    background-color: #0f1852;
+}
+.fmr{
+    font-size: 60px;
+}
+.wass{
+    background-image: url('img/gris.png');
+}
+.travCouleur{
+    background-color:  #93B7D5;
+    
+}
