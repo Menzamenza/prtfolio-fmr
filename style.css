@@ -11,6 +11,7 @@ body{
     color: white;
     background-color:#333E83;
 }
+
 .nav-link:hover{
     color: #333E83;
 }
@@ -27,4 +28,14 @@ body{
 .travCouleur{
     background-color:  #93B7D5;
     
+}
+li{
+    list-style: none;
+}
+.icones{
+    color: black;
+}
+.icones:hover{
+    color: #333E83;
+    transform: translateY(-10px);
 }
